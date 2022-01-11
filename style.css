@@ -1,0 +1,81 @@
+body{
+  font-family: 'Luxurious Roman', cursive;
+  margin: 0px;
+}
+header{
+  background: url(header-bg.png);
+  height: 500px;
+  padding-bottom: 100px;
+}
+.orange-color{
+  color: orange;
+}
+.half-part{
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+.text-part{
+  padding-top: 13%;
+}
+.half-part img{
+  width: 100%;
+}
+.hire-me{
+  text-decoration: none;
+  color: white;
+  padding: 10px 20px;
+  background-image: linear-gradient(45deg, lightsalmon, tomato);
+}
+.biography{
+  height: 800px;
+  background-image: url(biography-bg.png);
+}
+.experience{
+  height: 600px;
+  background-image: url(latest-work-bg.png);
+}
+.experience-part{
+  width: 100%;
+}
+.experience h1{
+  text-align: center;
+  padding-bottom: 100px;
+}
+.experience-part img{
+  width: 33%;
+}
+.client{
+  height: 900px;
+  background-image: url(footer-bg.png);
+}
+.client-text{
+  text-align: center;
+}
+.client-text h1{
+  padding-bottom: 60px;
+}
+.client-text p{
+  padding-bottom: 50px;
+  color: dimgrey;
+}
+.message-part{
+  width: 70%;
+  margin: auto;
+  height: 200px;
+  background-image: linear-gradient(45deg, #f8aeee, #f714d8);
+  background-size: cover;
+  text-align: center;
+  border-radius: 10px;
+  margin-top: 70px;
+}
+.message-part p{
+  padding-top: 50px;
+}
+.message-part h3{
+  font-size: 30px;
+}
+footer{
+  text-align: center;
+}
